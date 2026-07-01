@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Senior Manager, IT Operations opportunities.
 
-**Live:** https://rdammala.github.io/Ironclad_Senior-Manager-IT-Operations/
+**Live:** https://rdammala-org.github.io/Ironclad_Senior-Manager-IT-Operations/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
